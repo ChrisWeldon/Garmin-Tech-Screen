@@ -23,7 +23,7 @@ To build an m-ary tree, use `Tree.buildTree(tree)` with the tree parameter of tr
 eg.
 
 The tree
-
+![Tree](egtree.png?raw=true "Tree")
 can be constructed like so:
 ```
 buildTree([
